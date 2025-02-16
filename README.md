@@ -32,11 +32,11 @@ Este é um simples **sorteador de amigo secreto** desenvolvido com **HTML, CSS e
 ## 🎮 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
+   git clone [https://github.com/seu-usuario/sorteio-amigo-secreto.git](https://github.com/Rg96Dev/challenge_amigo_secreto)
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd sorteio-amigo-secreto
+   cd challenge_amigo_secreto
    ```
 3. Abra o arquivo `index.html` no navegador.
 4. Insira os nomes dos participantes.
